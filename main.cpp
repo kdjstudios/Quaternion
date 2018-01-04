@@ -46,10 +46,10 @@ cout << "Zero out Double Forward, now what is the length?: " << doubleFwd << '\n
 //cout << "Perpendicular to 'backward':" << per << '\n';
 //cout << "Sign of Perpendicular and double(Not Working) " << sign(per,doubleFwd) << '\n';
 
-cout << "Press any key to quit. ";
+//Uncomment the next three lines for user input
+//cout << "Press any key to quit. ";
+//char blah = ' ';
+//cin.get(blah);
 
-char blah = ' ';
-cin.get(blah);
-
-return -1;
+return 0;
 }
