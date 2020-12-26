@@ -3,8 +3,8 @@
 <p align="center">This is a simple implementation of a Quaternion object in C++. Features are listed below</p>
 
 <p align="center">
-    <a href="https://travis-ci.org/TheKyleJohnson90/Quaternion">
-        <img src="https://travis-ci.org/TheKyleJohnson90/Quaternion.svg?branch=master" alt="build status">
+    <a href="https://travis-ci.org/kdjstudios/Quaternion">
+        <img src="https://travis-ci.org/kdjstudios/Quaternion.svg?branch=master" alt="build status">
     </a>
 </p>
 
